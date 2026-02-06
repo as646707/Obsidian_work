@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.md",
+                "file": "Planning Of Projects/Ai push ups counter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "Ai push ups counter"
             }
           }
         ]
@@ -193,12 +193,17 @@
   },
   "active": "401c7ec8c33b1884",
   "lastOpenFiles": [
-    "React.md",
+    "The House Of Piranesi/My findings and an attempt at writting ideas in real life.md",
+    "Planning Of Projects/Ai push ups counter.md",
+    "Planning Of Projects",
+    "React Components And JSX.md",
+    "Untitled.md",
+    "The House Of Piranesi",
     "create a link.md",
+    "Welcome.md",
+    "Story.md",
     "hello world to the world of obsidian.md",
     "blog working and ideas/The Banality of evil.md",
-    "Untitled",
-    "blog working and ideas",
-    "Welcome.md"
+    "blog working and ideas"
   ]
 }

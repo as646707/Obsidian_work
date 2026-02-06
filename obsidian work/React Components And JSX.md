@@ -1,11 +1,7 @@
 some things to remember -
 to import and export a component and what are default functions and what are named functions ?
-default functions -
-
-
-
-
-
+default functions - they hold the main function of a file like in cpp and they are the ones that are the default function exported when we do something like import < file name  > from 'file.js '
+**properties of the default functions -**
 
 # jsx#
 
@@ -27,5 +23,3 @@ default functions -
   example to illustrate the 
 6. *if you want to use a varible why do you need to use the {} at all i mean arent they global variable and can be called from any where ?*
 ans -
-7. 
- 
