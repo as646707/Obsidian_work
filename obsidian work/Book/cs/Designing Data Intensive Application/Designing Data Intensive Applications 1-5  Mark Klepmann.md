@@ -24,3 +24,11 @@
           twitter has less posts as compared to the amount of people that are there to look at the post and so the scalabitlity should happen only to make the sytem handle updating the peoples inboxes faster and more effective . 
 	          here is what they do now .
           ![[Screenshot 2026-02-17 at 3.12.08 PM.png]]
+7. Q. How do you describe performance in something like the data intensive stuff ? how do you know how effecient is the system and how well it can handle load ?
+    ans. there are two things to keep in mind while doing this and these are a. while keeping the resorces the same and increasing the load how much is the **change in in the performance**  and b. how much resources are needed to **keep the performance unchanged** . 
+8. Time latency percentile - the time latency percentile is a way of monitoring the working of the latency and to study the different patterns of the latency . its written in the percentile method as a way of stating how many people are either above or below the percentile provided something if you know the most time taken and you know the percentile of that you know how many people take more than that amount of time . ![[Screenshot 2026-02-17 at 11.55.18 PM.png]]
+        1.  In this example of the percentile model you can see that you know the response time of the person that has the highest time taken as compared to all of the other people then you know that everyone else is lower than this and also that this is the person that has the biggest data heavy thing . 
+        2. **Q**. **define tail latency** -- tail latency is the time taken by the highest percentile request or in other words this is the time taken by the 99th percentile person .
+        3. how is this helpful ? 
+        4. not only that it tells you about the i percent of the 1 percent of the time taken but it also tells you about how much time is of the 50 th percentile person and so on 
+        5. 
