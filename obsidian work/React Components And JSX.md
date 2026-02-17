@@ -23,3 +23,4 @@ default functions - they hold the main function of a file like in cpp and they a
   example to illustrate the 
 6. *if you want to use a varible why do you need to use the {} at all i mean arent they global variable and can be called from any where ?*
 ans -
+for further reading and more interactive questions kindly please go [[jsx and components problems ]]
