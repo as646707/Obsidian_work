@@ -31,4 +31,6 @@
         2. **Q**. **define tail latency** -- tail latency is the time taken by the highest percentile request or in other words this is the time taken by the 99th percentile person .
         3. how is this helpful ? 
         4. not only that it tells you about the i percent of the 1 percent of the time taken but it also tells you about how much time is of the 50 th percentile person and so on 
-        5. 
+        5. the tail latency also helps us make aggreements something like one person can write in the contract like the latency should be under 200 ms ( average ) and the 99th percentile should have latency less than 1s and that its should be maintained .
+        6. **Q. define the term** -- **tail latency amplification** -- if there is a request queue and there is a request that has a high tail latency for that user something that has data then because of that all the other requests can get slower or are answered with delay because of that first or bigger request .
+        7. 
