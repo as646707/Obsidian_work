@@ -31,10 +31,9 @@ a redirect is something that the server sends back its not a page rather its the
 ans - consider a mail and the html header is the envelope and the html is the letter insider it so the html header tells the address of where the message has to go and the html is the thing that is insider it so that is the actuall code .
 
 example of this --
-```
-curl -X POST "http://al-blackjack.herokuapp.com/new_player" \
-  -d "player_name=Albert" -m 30 -v
-```
+`curl -X POST "http://al-blackjack.herokuapp.com/new_player" \`
+  `-d "player_name=Albert" -m 30 -v`
+
 if you send this you would get something like this --
  
 ![[Pasted image 20260219152742.png]]
